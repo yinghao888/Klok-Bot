@@ -19,7 +19,7 @@
 
 1. 克隆仓库：
     ```
-    git clone https://github.com/mesamirh/KlokappAi-Testnet-Bot.git
+    git clone https://github.com/yinghao888/KlokappAi-Testnet-Bot.git
     cd KlokappAi-Testnet-Bot
     ```
 
@@ -38,7 +38,7 @@
 启动机器人：
     ```
     npm start
-   ```
+    ```
 
 机器人将：
 1. 将你的钱包连接到 KlokappAI
